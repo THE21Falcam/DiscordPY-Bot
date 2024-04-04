@@ -1,2 +1,2 @@
 # DiscordPy-Bot
-This Project Workes With Discord.PY 2.0 Run main.py In Discord Bot Folder
+This Project Is Used To Make a General Perpose Discord Bot In Python With Mini Games and Basic Commands 
